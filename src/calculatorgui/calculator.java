@@ -6,14 +6,8 @@ import java.lang.Math;
 import javax.swing.JOptionPane;
 import javax.swing.JFrame;
 import javax.swing.JButton;
-import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import javax.swing.JPanel;
-import java.awt.FlowLayout;
-import java.awt.GridLayout;
-import javax.swing.GroupLayout;
-import javax.swing.GroupLayout.Alignment;
 import javax.swing.JTextField;
 
 public class calculator {
@@ -22,7 +16,6 @@ public class calculator {
 	private JTextField textField_1;
 	private JTextField textField_2;
 	private JTextField textField_3;
-	private JButton btnNewButton_5;
 	private JButton btnNewButton_4;
 	private JButton btnNewButton_6;
 	private JButton btnNewButton_7;
